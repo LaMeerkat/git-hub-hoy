@@ -33,8 +33,9 @@ h2{
 
 /*estilos generales*/
 body{
-    background-color: #ECEEF3;
+    background-color: black;
     font-family: 'Roboto', sans-serif;
+    color: white;
 
 }
 
@@ -178,15 +179,15 @@ footer h4{
 
     @keyframes fondo { /*aqui llamamos al comportamiento de la animación*/
         0%{
-            background-color: #182941;
+            background-color: #e2c080;
         }
 
         50%{
-            background-color: #51B0DF;
+            background-color: #dfad51;
         }
 
         100%{
-            background-color: #748f9d;
+            background-color: #976a17;
       
         }
         
